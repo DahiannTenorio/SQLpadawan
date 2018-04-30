@@ -1,0 +1,2 @@
+# SQLpadawan
+SQL learning 
